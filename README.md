@@ -22,7 +22,6 @@
 |---------|------------|
 | ![Gameplay](https://github.com/8ven0m8/rush_hour_rider/blob/main/images/gameplay.png?raw=true) | ![Game Over](https://github.com/8ven0m8/rush_hour_rider/blob/main/images/gameover.png?raw=true) |
 
-*(Replace with actual screenshots)*
 
 ---
 
