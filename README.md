@@ -1,4 +1,5 @@
-# 🚗 Rush Hour Rider
+
+## 🚗 Rush Hour Rider
 
 **Rush Hour Rider** is a fast-paced 2D endless car dodging game built using **Python** and **Pygame**. The goal is simple: steer your car left and right to dodge oncoming traffic and rack up the highest score possible. As your score increases, so does the difficulty!
 
@@ -19,7 +20,7 @@
 
 | Gameplay | Game Over |
 |---------|------------|
-| ![Gameplay](path/to/screenshot1.png) | ![Game Over](path/to/screenshot2.png) |
+| ![Gameplay](https://github.com/8ven0m8/rush_hour_rider/blob/main/images/gameplay.png?raw=true) | ![Game Over](https://github.com/8ven0m8/rush_hour_rider/blob/main/images/gameover.png?raw=true) |
 
 *(Replace with actual screenshots)*
 
