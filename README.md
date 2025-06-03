@@ -20,7 +20,7 @@
 
 | Gameplay | Game Over |
 |---------|------------|
-| ![Gameplay](https://github.com/8ven0m8/rush_hour_rider/blob/main/images/gameplay.png?raw=true) | ![Game Over](https://github.com/8ven0m8/rush_hour_rider/blob/main/images/gameover.png?raw=true) |
+| ![Gameplay](https://github.com/8ven0m8/rush_hour_rider/blob/main/images/playing.png?raw=true) | ![Game Over](https://github.com/8ven0m8/rush_hour_rider/blob/main/images/game-over.png?raw=true) |
 
 
 ---
